@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CardGameApp/1.0.0": {
+        "dependencies": {
+          "CardGameLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CardGameApp.dll": {}
+        }
+      },
+      "CardGameLibrary/1.0.0": {
+        "runtime": {
+          "CardGameLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardGameApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

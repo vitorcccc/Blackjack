@@ -1,0 +1,11 @@
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\bin\Debug\net8.0\CardGameLibrary.deps.json
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\bin\Debug\net8.0\CardGameLibrary.dll
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\bin\Debug\net8.0\CardGameLibrary.pdb
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.AssemblyInfoInputs.cache
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.AssemblyInfo.cs
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.dll
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\refint\CardGameLibrary.dll
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\CardGameLibrary.pdb
+C:\Users\Isa.WIN-63V13HQCTRV\Source\Repos\CardGameLibrary\CardGameLibrary\obj\Debug\net8.0\ref\CardGameLibrary.dll
