@@ -10,23 +10,8 @@
 
 | Nome | RM |
 |------|-----|
-| **Isadora Meneghetti** | RM556326 |
-| **Gustavo Ikeda** | RM554718 |
-| **Henrique Azevedo** | RM556707 |
-| **Renato Alvarenga** | RM556403 |
-| **Victoria Moura** | RM555474 |
+| **Vitor Couto Victorino** | RM554965 |
 
----
-
-## 📚 DISCIPLINA
-
-**Estruturas de Controle de Fluxo e Métodos em C#**
-
-**Professor:** Vinícius Costa Santos
-
-**Instituição:** FACULDADE FIAP
-
-**Ano:** 2026
 
 ---
 
@@ -84,8 +69,3 @@ O jogo permite que o usuário jogue contra o computador, acumule pontos e visual
 | **Encapsulamento** | Campos privados, métodos públicos/privados |
 | **Enumerações** | `ValorCarta`, `Naipe` |
 
----
-
-<p align="center">
-  Desenvolvido com ❤️ pelos alunos da FIAP
-</p>
