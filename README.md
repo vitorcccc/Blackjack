@@ -6,7 +6,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Console](https://img.shields.io/badge/Console-4EAA25?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-## 👥 INTEGRANTES DO GRUPO
+## 👥 AUTOR
 
 | Nome | RM |
 |------|-----|
